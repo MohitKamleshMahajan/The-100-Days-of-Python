@@ -5,35 +5,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>The-100-Days-of-Python Journey</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            color: #333;
-            margin: 0;
-            padding: 0;
-            line-height: 1.6;
-        }
-        .container {
-            max-width: 800px;
-            margin: 20px auto;
-            padding: 0 20px;
-        }
-        h1 {
-            text-align: center;
-            color: #007bff;
-            margin-bottom: 30px;
-        }
-        .emoji {
-            font-size: 24px;
-            margin-left: 5px;
-        }
-        .highlight {
-            background-color: #ffffcc;
-            padding: 5px 10px;
-            border-radius: 5px;
-        }
-    </style>
 </head>
 <body>
     <div class="container">
